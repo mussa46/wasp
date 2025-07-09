@@ -1,4 +1,6 @@
----
+tab
+phone-in 
+repair 
 title: 'Permissions (access control) in web apps'
 authors: [martinsos]
 image: /img/permissions-in-web-apps/auth-spidermen.jpg
